@@ -11,7 +11,7 @@
 ## File explain
 * final_trash.py: This is the main file, detect function, flask in here
 * camera.py: to speed up the FPS and get the frame number
-* home.html: sample index page
+* templates/home.html: sample index page
 
 ## Main Goal
 * First, run yolov4 in the windows env
