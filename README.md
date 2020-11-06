@@ -16,7 +16,7 @@
 ## Main Goal
 * First, run yolov4 in the windows env
 * Second, add IOU function and set to decrease the misjudgment times
-* Third, speed up the FPS(using Tesla 16G V100, 5min video, 30s finish)
+* Third, speed up the FPS(5min video, 60s finish)
 * Forth, use html to be the UI
 
 ## Reference
