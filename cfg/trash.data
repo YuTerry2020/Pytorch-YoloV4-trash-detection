@@ -1,0 +1,8 @@
+classes= 2
+train  = /home/xxx/darknet/trash_data/train.txt
+valid  = /home/xxx/darknet/trash_data/test.txt
+#valid = data/coco_val_5k.list
+names = D:/YOLO/pytorch-YOLOv4/cfg/trash.names
+backup = /home/xxx/darknet_fish/backup_trash/
+eval=coco
+
