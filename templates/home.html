@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  </head>
+  <body>
+    <form action="/forward/" method="post">
+        <button name="forwardBtn" type="submit">Start</button>
+    </form>
+    <form action="/check/" method="post">
+        <button name="checkBtn" type="submit">Check</button>
+    </form>
+    hello, {{ forward_message }}!
+    Now {{ check_message }}!
+  </body>
+</html>
